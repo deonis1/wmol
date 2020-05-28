@@ -3,7 +3,7 @@ WMOL is a small molecule visualisation program which uses JavaScript canvas libr
 There are two ways to use this program. The first one is to open index_main.html file in an internet browser and then use "browse" button to open a molecular file. 
 
 Alternatively the program could be accesed through a python script included in the project. 
-
 To test the program using python simply run the command below in the project directory:
+
 
 python wmol.py ./test/test.res
