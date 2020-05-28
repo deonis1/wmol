@@ -7,3 +7,5 @@ To test the program using python simply run the command below in the project dir
 
 
 python wmol.py ./test/test.res
+
+![Test Image 1](https://github.com/wmol/wmol.png)
